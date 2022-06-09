@@ -12,6 +12,6 @@ body {
   display: grid;
   grid-template-columns: repeat(2, 12fr);
   gap: 150px;
-  padding:250px;
+  padding:300px;
  
 }
